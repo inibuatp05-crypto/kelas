@@ -69,12 +69,12 @@ const polaroids = [
 ];
 
 const timeline = [
-  {date:'Juli 2023',     title:'Our first photo together',         text:'36 orang asing duduk di kelas yang sama. Tidak ada yang tahu apa yang akan terjadi kedepannya.', img:'img/22.webp'},
-  {date:'Desember 2023', title:'Foto bersama ayah dan papah', text:'Merayakan apa yang telah mereka berikan untuk kita selama ini.',         img:'img/23.webp'},
-  {date:'Mei 2024',      title:'Matmin road to pangalengan',   text:'Bus, lagu-lagu, dan tidur di pundak teman. Tidak ada yang ingin pulang.',           img:'img/20.webp'},
-  {date:'Agustus 2024',  title:'Foto yearbook!',       text:'Melukis kenangan bersama-sama dengan pakaian terbaik kita.',                          img:'img/24.webp'},
-  {date:'Februari 2025', title:'Ujian praktek moment',   text:'Lampu panggung menyala. Hasil dari segala kerja keras kita semua.', img:'img/25.webp'},
-  {date:'Mei 2025',      title:'Our last trip together',        text:'Kita berfoto. Kita berpelukan. Kita berjanji. Lalu kita pulang membawa semuanya.',   img:'img/21.webp'},
+  {date:'November 2024', title:'Foto bersama ayah dan papah', text:'Merayakan apa yang telah mereka berikan untuk kita selama ini.',         img:'img/23.webp'},
+  {date:'Januari 2025',     title:'Our last photo together with Pak Tedy',         text:'36 orang asing duduk di kelas yang sama. Tidak ada yang tahu apa yang akan terjadi kedepannya.', img:'img/22.webp'},
+  {date:'Juni 2025',      title:'Matmin road to pangalengan',   text:'Bus, lagu-lagu, dan tidur di pundak teman. Tidak ada yang ingin pulang.',           img:'img/20.webp'},
+  {date:'Desember 2025',  title:'Foto yearbook!',       text:'Melukis kenangan bersama-sama dengan pakaian terbaik kita.',                          img:'img/24.webp'},
+  {date:'Januari 2026', title:'Ujian praktek moment',   text:'Lampu panggung menyala. Hasil dari segala kerja keras kita semua.', img:'img/25.webp'},
+  {date:'Mei 2026',      title:'Our last trip together',        text:'Kita berfoto. Kita berpelukan. Kita berjanji. Lalu kita pulang membawa semuanya.',   img:'img/21.webp'},
 ];
 
 const quotes = [
